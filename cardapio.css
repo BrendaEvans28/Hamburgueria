@@ -100,9 +100,9 @@ header nav ul li.menu-drop-down ul li:hover{
     background-color: black;
 }
 
-p {
-    font-size: 17px;
-    text-align: justify;
+img{
+    height: auto;
+    width: 100%;
 }
 
 footer{
@@ -116,4 +116,5 @@ footer{
     color: white;
     font-size: 13px;
     margin: 20px 0 0;
+
 }
